@@ -1,0 +1,17 @@
+/* Estilo para o botão "New Quote" */
+button {
+    background-color: #007bff; /* Cor de fundo azul */
+    color: #ffffff; /* Cor do texto branco */
+    padding: 10px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border: none; /* Remove a borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor em formato de mão */
+    transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+  }
+  
+  /* Estilo ao passar o mouse */
+  button:hover {
+    background-color: #0056b3; /* Cor de fundo mais escura ao passar o mouse */
+  }
+  
